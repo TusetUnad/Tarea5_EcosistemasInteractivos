@@ -4,3 +4,4 @@ Para mostrar la participación de todos los miembros, cada uno de nosotros ha he
 
 - Commit de Francesc Tuset.
 - Commit de Ana Marcela Barreto.
+- Commit de Erika Mancilla.
