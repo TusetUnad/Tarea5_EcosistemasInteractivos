@@ -6,3 +6,4 @@ Para mostrar la participación de todos los miembros, cada uno de nosotros ha he
 - Commit de Ana Marcela Barreto.
 - Commit de Erika Mancilla.
 - Commit de Christian Andrés Gutiérrez.
+- Commit de Marivel Cruz.
